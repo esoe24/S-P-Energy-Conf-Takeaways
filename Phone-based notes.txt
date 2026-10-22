@@ -1,0 +1,35 @@
+Something we should look into with Sunil: 
+MCP blending ICE drop copies of bilateral trades + integration with CTRMs — innovation day with ICE contacts and David Gross. Main benefit to systems would be acceleration of configuration for new trades probably 
+
+Something we need to understand more and gain personal clarity on:
+Overseas increasing US LNG export market share leads to more volatility exposure and seasonality??
+
+
+Strong presenter:
+Shayne Willette — US Power Analysis
+
+Additional Notes:
+Power builds, one of the busiest if not the busiest supply side capacity builds today. Happening in large part because of rolling back the inflation reduction act.
+
+
+Networking and demo with S&P:
+Raj Ganesh? What’s his name?
+Copilot Cowork
+Claude MCP
+Copilot MCP as agent
+Can buy both of the above
+Talk later
+Copilot Apps (dashboards… need budget)
+Copilot automations (Connor to investigate)
+Sunil also got demoed a different power product that S&P recently acquired
+Meet with them again
+Their office is at 55 Water Street, Nathan is based in NYC
+Visible Alpha
+ChatIQ
+ALSO provisioned via the same MCP server
+
+
+
+Terms to look up later:
+Behind the meter
+Plant Capacity Factor
